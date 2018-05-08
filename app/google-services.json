@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "728562093549",
+    "firebase_url": "https://extra-fa721.firebaseio.com",
+    "project_id": "extra-fa721",
+    "storage_bucket": "extra-fa721.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728562093549:android:f87d87a646d6237a",
+        "android_client_info": {
+          "package_name": "exr.at.com.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728562093549-fi89sa9ql3k7gjuk0lanafai24g4kr9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "exr.at.com.firebasechat",
+            "certificate_hash": "accf55c8c8c2e88e4deb46d054c572d11d841f8f"
+          }
+        },
+        {
+          "client_id": "728562093549-6ectdbbhkjsfo6uu3bmcbtevul96j2t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ1-ky_W4xeXIq2LJdUTI4nNmZu2JeSk4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728562093549-6ectdbbhkjsfo6uu3bmcbtevul96j2t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
